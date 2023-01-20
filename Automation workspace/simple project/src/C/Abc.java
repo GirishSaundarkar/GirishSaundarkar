@@ -1,0 +1,18 @@
+package C;
+
+public class Abc {
+boolean a=true;
+
+void check() {
+	if(a==true) {
+		a=false;
+		System.out.println("The Boolean Value is:"+a);
+	}
+}
+public static void main(String[] args) {
+	Abc obj= new Abc();
+
+obj.check();
+	
+}
+}

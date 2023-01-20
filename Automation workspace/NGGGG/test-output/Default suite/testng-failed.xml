@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="TEstNgbasic.LoginTestCases">
+        <methods>
+          <include name="testLoginUnameError"/>
+          <include name="testLoginPassdError"/>
+        </methods>
+      </class> <!-- TEstNgbasic.LoginTestCases -->
+      <class name="TEstNgbasic.Priority">
+        <methods>
+          <include name="testLoginPassdError"/>
+          <include name="testLoginUnameError"/>
+        </methods>
+      </class> <!-- TEstNgbasic.Priority -->
+      <class name="TEstNgbasic.SoftAssert">
+        <methods>
+          <include name="testLoginPageHeading"/>
+        </methods>
+      </class> <!-- TEstNgbasic.SoftAssert -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
