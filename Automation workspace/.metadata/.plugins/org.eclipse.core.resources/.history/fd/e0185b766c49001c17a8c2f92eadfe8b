@@ -1,0 +1,15 @@
+package C;
+
+public class Abc {
+int a=15000;
+int b=-20000;
+
+void add() {
+	int c= a+b;
+	System.out.println("the int value is:"+c);
+}
+public static void main(String[] args) {
+	Abc obj=new Abc();
+	obj.add();
+}
+}
