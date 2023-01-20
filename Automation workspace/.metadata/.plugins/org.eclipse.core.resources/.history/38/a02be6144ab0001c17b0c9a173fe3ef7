@@ -1,0 +1,19 @@
+package thousandjutsu;
+
+public class constructor_0 {
+
+	private String name;
+	
+	// constructor
+	constructor_0() {
+		System.out.println("constructor:");
+		name = "programiz";
+	}
+	
+	public static void main(String[] args) {
+		//constructor is invokined while
+		//creating an object of the main class
+		constructor_0 obj=new constructor_0();
+		System.out.println("the name is " + obj.name);
+	}
+}

@@ -1,0 +1,13 @@
+package C;
+
+public class A {
+
+	public static void main(String[] args) {
+		
+		String s1="tello tow are you"; 
+		String replaceString=s1.replace('t','h'); 
+		System.out.println(replaceString);
+
+	}
+
+}
