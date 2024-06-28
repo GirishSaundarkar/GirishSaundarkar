@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GirishSaundarkar
 - 👀 I’m interested in ... web development
 - 🌱 I’m currently learning ... react
-💻 I'm a developer with expertise in:
+💻 I'm a developer with expertise in backend developement:
   - JavaScript (JS)
   - CSS
   - HTML
