@@ -8,6 +8,7 @@
   - Node.js
   - MongoDB
   - MySQL
+  - java
   - Backend Development
 
 - 💞️ I’m looking to collaborate on ...
