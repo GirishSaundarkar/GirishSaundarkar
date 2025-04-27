@@ -1,20 +1,22 @@
-- 👋 Hi, I’m @GirishSaundarkar
-- 👀 I’m interested in ... web development
-- 🌱 I’m currently learning ... react
-💻 I'm a developer with expertise in backend developement:
-  - JavaScript (JS)
-  - CSS
-  - HTML
-  - Node.js
-  - MongoDB
-  - MySQL
-  - java
-  - Backend Development
+👋 Hi, I’m Girish Saundarkar
+🚀 Passionate Web Developer specializing in the MERN Stack
 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... gsaundarkar@gmail.com
+🛠️ 2+ years of hands-on experience in Backend Development
 
-<!---
-GirishSaundarkar/GirishSaundarkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Tech Stack:
+
+JavaScript (Node.js | React.js)
+
+MongoDB
+
+HTML & CSS
+
+REST APIs | Backend Architecture
+
+🌱 Always learning, building, and improving
+
+🤝 Open to collaborating on exciting backend and fullstack projects
+
+📫 Reach out to me at gsaundarkar@gmail.com
+
+"Code. Build. Grow. Repeat."
