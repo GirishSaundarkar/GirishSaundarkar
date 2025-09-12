@@ -5,11 +5,13 @@
 
 💻 Tech Stack:
 
-JavaScript (Node.js | React.js)
+JavaScript (Node.js | React.js | nextjs)
 
 MongoDB
 
 HTML & CSS
+
+python
 
 REST APIs | Backend Architecture
 
